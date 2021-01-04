@@ -1,0 +1,41 @@
+.App {
+  text-align: left;
+  margin: 25px;
+  font-family: "Helvetica Neue";
+  font-weight: bold;
+  font-style: normal;
+  font-size: 20px;
+}
+.butterfly1
+{
+    height:300px;
+    width:300px;
+    border-radius: 15px;
+}
+.butterfly2
+{
+    height:300px;
+    width:300px;
+    border-radius: 15px;
+}
+.butterfly3
+{
+    height:300px;
+    width:300px;
+    border-radius: 15px;  
+}
+figure
+{
+  display: inline-block;
+}
+figure figcaption
+{
+  text-align: center;
+  font-family: "Helvetica Neue";
+  font-weight: bold;
+  font-style: normal;
+
+}
+
+
+
